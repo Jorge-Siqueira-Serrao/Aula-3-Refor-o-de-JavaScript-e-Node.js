@@ -1,0 +1,21 @@
+{
+  "name": "aula3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jorge-Siqueira-Serrao/Aula-3-Refor-o-de-JavaScript-e-Node.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Jorge-Siqueira-Serrao/Aula-3-Refor-o-de-JavaScript-e-Node.js/issues"
+  },
+  "homepage": "https://github.com/Jorge-Siqueira-Serrao/Aula-3-Refor-o-de-JavaScript-e-Node.js#readme"
+}
